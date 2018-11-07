@@ -15,8 +15,8 @@ items:
   - az_logout
 - uid: az_configure
   name: az configure
-  summary: Display and manage the Azure CLI 2.0 configuration. This command is interactive.
-  description: ''
+  summary: 1. https://github.com/ 2. [github](https://github.com/) 3. <a href="https://github.com/">github</a>
+  description: hello 1. https://github.com/ 2. [github](https://github.com/) 3. <a href="https://github.com/">github</a>
   langs:
   - azurecli
   examples:
