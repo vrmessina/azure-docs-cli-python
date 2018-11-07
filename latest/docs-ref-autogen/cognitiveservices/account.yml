@@ -29,7 +29,7 @@ items:
   - isRequired: true
     name: --kind
     summary: The API name of cognitive services account.
-    description: ''
+    description: 'wahahahaha'
     valueFrom: az cognitiveservices account list-kinds
   - isRequired: true
     name: --location -l
