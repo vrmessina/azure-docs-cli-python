@@ -48,8 +48,8 @@ items:
   - isRequired: true
     name: --key-name
     parameterValueGroup: key1, key2
-    summary: Key name to generate.
-    description: ''
+    summary: Key name to generate. '*markdown test 3*'
+    description: '*markdown test 3*'
   - isRequired: true
     name: --name -n
     summary: Cognitive service account name.
